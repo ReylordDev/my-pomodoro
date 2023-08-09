@@ -3,3 +3,5 @@
 - [ ] [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start)
 
 - [x] Create a web page
+
+- [ ] Manage your window's lifecycle

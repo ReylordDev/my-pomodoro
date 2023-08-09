@@ -1,0 +1,15 @@
+{
+  "name": "my-pomodoro",
+  "version": "1.0.0",
+  "description": "My own pomodoro timer app, based on pomotroid",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Luis Klocke",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.4.0"
+  }
+}
